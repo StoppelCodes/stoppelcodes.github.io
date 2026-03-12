@@ -42,7 +42,7 @@ Your Control Over Data
 You may:
 
 • Edit or delete your data inside the app
-• Delete your account at any time
+• Request a delete of your account at any time
 
 Deleting the app may remove locally stored data.
 
