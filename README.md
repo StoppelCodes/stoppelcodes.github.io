@@ -1,7 +1,7 @@
 # stoppelcodes.github.io
 
-Hi there, this is the help page for FoxFit. Thanks you for visiting.
+Hi there, this is the help page for EmeraldFox Fitness. Thanks you for visiting.
 
-If you have other further questions that were not answered here, please contact FoxFit!
+If you have other further questions that were not answered here, please contact EmeraldFox Fitness!
 
 
