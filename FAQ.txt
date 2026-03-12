@@ -1,23 +1,23 @@
-FoxFit – Frequently Asked Questions
+EmeraldFox Fitness – Frequently Asked Questions
 
-What is FoxFit?
-FoxFit is a workout and client management app designed to help trainers organize workouts and track progress.
+What is EmeraldFox?
+EmeraldFox Fitness is a workout and client management app designed to help trainers organize workouts and track progress.
 
 Do my clients need the app?
-No. FoxFit is designed for trainers to manage their client workouts.
+No. EmeraldFox is designed for trainers to manage their client workouts.
 
 Where is my data stored?
 Your workout and client data may be stored locally on your device and securely synced to cloud storage.
 
 Can I delete my data?
 Yes. You can remove clients, workouts, and other data directly in the app.
-You can also request a full delete or account delete at any time by contacting FoxFit.
+You can also request a full delete or account delete at any time by contacting EmeraldFox.
 
 Is my data shared with other companies?
-No. FoxFit does not sell or share your personal data with third parties.
+No. EmeraldFox Fitness does not sell or share your personal data with third parties.
 
-Does FoxFit give medical advice?
-No. FoxFit is only a workout tracking tool and does not provide medical or health advice.
+Does EmeraldFox Fitness give medical advice?
+No. EmeraldFox Fitness is only a workout tracking tool and does not provide medical or health advice.
 
 Who can I contact for help?
 Email paulstoppel01@gmail.com for assistance
