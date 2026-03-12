@@ -1,23 +1,23 @@
-Privacy Policy FoxFit
+Privacy Policy EmeraldFox Fitness
 
-FoxFit respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the FoxFit mobile application.
+EmeraldFox Fitness respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the EmeraldFox mobile application.
 
 Information We Collect
 
-FoxFit may collect the following information:
+EmeraldFox may collect the following information:
 
 • Account information such as your email address and name 
 • Client names you create within the app
 • Workout data you enter (exercises, sets, notes, etc.)
 • Basic technical information such as device type and app usage
 
-FoxFit does not collect payment information and does not intentionally collect sensitive personal information.
+EmeraldFox Fitness does not collect payment information and does not intentionally collect sensitive personal information.
 
 How We Use Your Information
 
 We use the information collected to:
 
-• Provide and maintain the FoxFit application
+• Provide and maintain the EmeraldFox Fitness application
 • Store and sync workout and client data
 • Store your email and name for your user profile
 • Improve app functionality and performance
@@ -36,7 +36,7 @@ We take reasonable measures to protect your information.
 
 Data Sharing
 
-FoxFit does not sell, rent, or trade your personal data to third parties.
+EmeraldFox Fitness does not sell, rent, or trade your personal data to third parties.
 Data may only be shared when required by law or necessary to operate the service.
 
 Your Control Over Data
