@@ -1,0 +1,59 @@
+FoxFit respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the FoxFit mobile application.
+
+Information We Collect
+
+FoxFit may collect the following information:
+
+• Account information such as your email address and name 
+• Client names you create within the app
+• Workout data you enter (exercises, sets, notes, etc.)
+• Basic technical information such as device type and app usage
+
+FoxFit does not collect payment information and does not intentionally collect sensitive personal information.
+
+How We Use Your Information
+
+We use the information collected to:
+
+• Provide and maintain the FoxFit application
+• Store and sync workout and client data
+• Store your email and name for your user profile
+• Improve app functionality and performance
+• Provide support if issues occur
+
+Your data is used only for operating the app. It is not shared with or sold to anyone
+
+Data Storage
+
+Your data may be stored:
+
+• Locally on your device
+• On secure servers used for syncing data
+
+We take reasonable measures to protect your information.
+
+Data Sharing
+
+FoxFit does not sell, rent, or trade your personal data to third parties.
+Data may only be shared when required by law or necessary to operate the service.
+
+Your Control Over Data
+
+You may:
+
+• Edit or delete your data inside the app
+• Delete your account at any time
+
+Deleting the app may remove locally stored data.
+
+To request data deletion, see contact
+
+Changes to This Policy
+
+We may update this policy occasionally. Continued use of the app means you accept any updates.
+
+Contact
+
+If you have questions about this policy, contact:
+
+paulstoppel01@gmail.com
