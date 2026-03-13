@@ -1,8 +1,8 @@
 # stoppelcodes.github.io
 
-Hi there, this is the help page for EmeraldFox Fitness. Thanks you for visiting.
+Hi there, this is the help page for EmeraldFox Fitness. Thank you for visiting.
 
-If you have other further questions that were not answered here, please contact EmeraldFox Fitness!
+If you have further questions that were not answered in the above documents, please contact EmeraldFox!
 
 Lets get FoxFit!!!
 
